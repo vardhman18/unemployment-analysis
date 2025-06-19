@@ -30,6 +30,7 @@ unemployment_analysis/
 1. **Clone the repository**
 
 git clone https://github.com/vardhman18/unemployment-analysis.git
+
 cd unemployment_analysis
 
 2. **Install dependencies**
