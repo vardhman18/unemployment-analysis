@@ -1,0 +1,5 @@
+- COVID-19 significantly increased unemployment rates in 2020.
+- Some regions experienced higher fluctuations than others.
+- Unemployment shows mild seasonal patterns mid-year.
+- Forecasting predicts moderate improvement in upcoming months.
+- Models like Prophet and Random Forest help anticipate future trends.
