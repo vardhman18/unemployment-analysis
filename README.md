@@ -42,6 +42,7 @@ pip install -r requirements.txt
 
 
 cd streamlit_app
+
 streamlit run app.py
 
 -----
